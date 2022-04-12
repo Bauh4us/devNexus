@@ -3,7 +3,7 @@ service_packages:
 - description: placeholder description for Devnexus_APIOps_Workshop service package
   name: Devnexus_APIOps_Workshop
   versions:
-  - implementation:
+   implementation:
       kong:
         service:
           host: apiops.kongproxy.me
